@@ -1,7 +1,7 @@
 # Student-Management-System
 Overview
 
-This C++ console application is designed to manage student records efficiently. It allows users to:
+This C++ application is designed to manage student records efficiently. It allows users to:
 
 Add new students
 Display all student information
@@ -11,7 +11,7 @@ Find the student with the highest and lowest average marks
 Calculate the class average
 How to Use
 
-Compile: Use a C++ compiler like g++ to compile the code.
+Compile: Use a C++ compiler like code blocks to compile the code.
 Run: Execute the compiled program.
 Interact: Follow the on-screen prompts to perform various operations.
 Key Features
